@@ -1,22 +1,36 @@
-# Privacy Policy for Master Search for Stocks Chrome Extension
+# Privacy Policy for Investor Master Search
 
 Last Updated: 11/11/2023
 
 ## 1. Introduction
-Welcome to the Privacy Policy for the Master Search for Stocks Chrome Extension ("Extension"). This Extension is designed to provide users with the ability to search stock tickers across multiple financial platforms efficiently. Your privacy is important to us, and this policy outlines our practices regarding any personal information we might collect and how we treat it.
+Welcome to "Investor Master Search," a Chrome extension designed to enhance your stock research experience. This Privacy Policy outlines how we collect, use, and protect any information that you give while using our extension.
 
-## 2. Information Collection and Use
-The Master Search for Stocks Extension does not collect, store, or use any personal information, browsing history, or any data related to the user's online activities. The Extension operates entirely client-side, meaning all processes and actions occur on the user's device without transmitting data externally.
+## 2. Information Collection
+"Investor Master Search" does not collect any personal information from its users. However, the extension uses Google Analytics to gather anonymous usage data to improve the extension's functionality and user experience.
 
-## 3. User Data and Permissions
-Our Extension does not require or request any personal data from users. It operates with minimal permissions, solely for the purpose of enhancing user experience in stock ticker searches. We do not access, read, or modify any personal or sensitive data from the user's browser or device.
+## 3. Google Analytics
+We use Google Analytics, a service provided by Google, to collect anonymous usage data. This includes:
 
-## 4. Third-Party Links and Services
-The Extension may provide links or access to third-party websites or services, such as financial platforms or social media sites. Our Privacy Policy does not apply to these external sites or services, and we are not responsible for their content or privacy practices. We encourage users to review the privacy policies of these third-party sites.
+Interactions with the extension's features (such as search queries, selections, and button clicks).
+Extension installation and update events.
+Non-personally identifiable information like usage frequency and preferences.
+No personal information is collected or stored by "Investor Master Search" through Google Analytics.
 
-## 5. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify users of any changes by posting the new Privacy Policy on this page. Users are advised to review this Privacy Policy periodically for any changes.
+## 4. Use of Collected Information
+The anonymous data collected through Google Analytics is used solely for the purpose of:
 
-## 6. Contact Us
-If you have any questions about this Privacy Policy, please contact us via Chrome Extension Feedback.
+Understanding how users interact with the extension.
+Improving the extension's features and performance.
+Enhancing the overall user experience.
 
+## 5. Data Protection
+We are committed to ensuring that your information is secure. As we do not collect personal information, the risk of data breach is significantly minimized.
+
+## 6. Changes to This Privacy Policy
+We may update our Privacy Policy periodically to reflect changes to our practices or for other operational, legal, or regulatory reasons. Users are advised to review this Privacy Policy periodically for any changes.
+
+## 7. Consent
+By using "Investor Master Search," you consent to the collection and use of anonymous data as specified in this Privacy Policy.
+
+## 8. Contact Us
+If you have any questions about this Privacy Policy, please contact us via email or extension store comments.
